@@ -13,7 +13,7 @@ const products = [
     price: 60,
     unit: "packet",
     description: "High-quality food product from Shiva Guru.",
-    image: "images/qw (2).png"
+    image: "qw (2).png"
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const products = [
     price: 50,
     unit: "packet",
     description: "Fresh, hygienic and carefully manufactured.",
-    image: "images/qw (1).png"
+    image: "qw (1).png"
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const products = [
     price: 950,
     unit: "packet",
     description: "Made using carefully selected ingredients.",
-    image: "images/arnav.png"
+    image: "arnav.png"
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const products = [
     price: 45,
     unit: "packet",
     description: "Premium quality food for your family.",
-    image: "images/arnav1.png"
+    image: "arnav1.png"
   }
 ];
 
